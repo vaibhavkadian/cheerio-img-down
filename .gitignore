@@ -1,2 +1,3 @@
 node_modules/*
 *sapient.js
+.DS_Store
